@@ -1,4 +1,4 @@
-EA3. procesamiento de datos en infraestructura cloud usando **Databricks Free Edition** y **Apache Spark**. Se trabajó con el dataset *THE World University Rankings 2016–2026* descargado de Kaggle, cargado en DBFS/Volumes y procesado con PySpark y Spark SQL.
+ procesamiento de datos en infraestructura cloud usando **Databricks Free Edition** y **Apache Spark**. Se trabajó con el dataset *THE World University Rankings 2016–2026* descargado de Kaggle, cargado en DBFS/Volumes y procesado con PySpark y Spark SQL.
 
 ---
 
